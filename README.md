@@ -1,4 +1,4 @@
-# Emotion Detection Through Conversationl Text
+# Emotion Detection Through Conversation Text
 This project allows you send a massage through Telegram bot, and The bot will answer by the emotion contained in the massege.
 
 
